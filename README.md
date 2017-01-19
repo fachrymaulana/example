@@ -5,7 +5,7 @@
 <title>Data Barang</title>
 </head>
 <body>
-<h2>Daftar Data Barang</h2>
+<h2>Daftar Data Brand</h2>
 <table width="500" border="0" cellpadding="0" cellspacing="1" bgcolor="#CCCCCC">
 <tr bgcolor="#999999">
     <th><font color="#FFFFFF">Kode Barang</font></th>
